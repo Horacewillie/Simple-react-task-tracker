@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//Simple-react-task-tracker/static/css/main.e1b0f376.chunk.css",
+    "main.js": "//Simple-react-task-tracker/static/js/main.f0566e72.chunk.js",
+    "main.js.map": "//Simple-react-task-tracker/static/js/main.f0566e72.chunk.js.map",
+    "runtime-main.js": "//Simple-react-task-tracker/static/js/runtime-main.2fa44114.js",
+    "runtime-main.js.map": "//Simple-react-task-tracker/static/js/runtime-main.2fa44114.js.map",
+    "static/js/2.05cb5a5c.chunk.js": "//Simple-react-task-tracker/static/js/2.05cb5a5c.chunk.js",
+    "static/js/2.05cb5a5c.chunk.js.map": "//Simple-react-task-tracker/static/js/2.05cb5a5c.chunk.js.map",
+    "static/js/3.70754f6f.chunk.js": "//Simple-react-task-tracker/static/js/3.70754f6f.chunk.js",
+    "static/js/3.70754f6f.chunk.js.map": "//Simple-react-task-tracker/static/js/3.70754f6f.chunk.js.map",
+    "index.html": "//Simple-react-task-tracker/index.html",
+    "static/css/main.e1b0f376.chunk.css.map": "//Simple-react-task-tracker/static/css/main.e1b0f376.chunk.css.map",
+    "static/js/2.05cb5a5c.chunk.js.LICENSE.txt": "//Simple-react-task-tracker/static/js/2.05cb5a5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fa44114.js",
+    "static/js/2.05cb5a5c.chunk.js",
+    "static/css/main.e1b0f376.chunk.css",
+    "static/js/main.f0566e72.chunk.js"
+  ]
+}
